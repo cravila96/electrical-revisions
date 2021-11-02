@@ -1,0 +1,53 @@
+:root {
+  --blue1: #2F4866;
+  --pink1:#FF4880;
+  --gray1:#707070;/*Color de lineas y bordes*/
+  --gray2:#7C7A7B;/*Color de placeholder*/
+  --gray3:#F4F4F4;/*Color de letras*/ 
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html{
+  font-size: 62.5%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  min-width: 320px;
+  height: 400px;
+  text-align: center;
+}
+
+.input--user, .input--pass  {
+  display: flex;
+  justify-content: start;
+  margin-bottom: 25px;
+  box-sizing: content-box;
+  width: 220px;
+  border-bottom: #707070 solid 1px;
+  margin-top: 20px;
+}
+.user, .pass {
+  border: none;
+  color: var(--gray1);
+  font-size: medium;
+  outline: none;
+}
+.login  button {
+  background-color: var(--pink1);
+  width: 120px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  color: var(--gray3);
+  font-weight: 800;
+  font-size: large;
+}
