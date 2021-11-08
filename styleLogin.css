@@ -15,20 +15,21 @@ html{
   font-family: 'Open Sans', sans-serif;
 }
 
-.container{
+
+.login-form{
   position: relative;
   display: flex;
-  flex-direction: column;
   justify-content: center;
+  align-items:center ;
   width: 100%;
   min-width: 320px;
   height: 400px;
   text-align: center;
 }
 
-.input--user, .input--pass  {
+.login-form input  {
   display: flex;
-  justify-content: start;
+  /* justify-content: start; */
   margin-bottom: 25px;
   box-sizing: content-box;
   width: 220px;
@@ -41,7 +42,7 @@ html{
   font-size: medium;
   outline: none;
 }
-.login  button {
+.login {
   background-color: var(--pink1);
   width: 120px;
   height: 40px;
@@ -50,4 +51,8 @@ html{
   color: var(--gray3);
   font-weight: 800;
   font-size: large;
+}
+.entrada{
+  display: flex;
+  align-items: center;
 }

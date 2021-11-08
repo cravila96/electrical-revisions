@@ -11,35 +11,32 @@
 <body>
   <main>
     <section>
-      <div class="container">
-        <div class="image">
-          <img src="./Assets/icons/logoA.svg" alt="Logo inicial de Login">
-        </div>
-        <div class="cont-log">
-          <center>
-            <img src="./Assets/icons/singning.svg" alt=""><!--Titulo SIGN IN Código SVG-->
-            <div class="input--user">
-              <div class="icon--user">
-                <img src="./Assets/icons/icon_user.svg" alt="">
-              </div><!--Icono de usuario Código SVG-->
-              <input class="user" type="text" placeholder="Username"><!--Entrada Usuario-->
-            </div>
-            <div class="input--pass">
-              <div class="icon--password">
-                <img src="./Assets/icons/icon_password.svg" alt="">
-              </div><!--Icono de password Código SV-->
-  
-              <input class="pass" type="text" placeholder="Password"><!--Entrada Contraseña-->
-            </div>
-            <div class="login">
-              <a href="./home.html">
-                <button>LOGIN</button>
-              </a>
-            </div>
-          </center>
-        </div>     
-      </div>
+      <header>
+        <center>
+          <div>
+            <img src="../Assets/icons/logoA.svg" alt="Logo">
+          </div>
+          <div>
+            <img src="../Assets/icons/singning.svg" alt="signin">
+          </div>
+        </center>
+      </header>
     </section>
+        <section class="login-form">
+          <form action="" method="post">
+            <div class="entrada">
+              <img src="../Assets/icons/icon_user.svg" alt="Icono Usuario">
+              <input class="user" type="text" placeholder="Username" name="username">
+            </div>
+            <div class="entrada">
+              <img src="../Assets/icons/icon_password.svg" alt="Icono Password">
+              <input class="pass" type="password" placeholder="Password" name="password">
+            </div>
+            <div>
+              <input class="login" type="submit" name="login" value="LOGIN">
+            </div>
+          </form>
+        </section>
   </main>  
   <footer>
 
