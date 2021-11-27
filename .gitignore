@@ -1,0 +1,16 @@
+#Django
+__pycache__/
+posts/migrations/__pycache__/
+users/migrations/__pycache__/
+*.pyc
+db.sqlite3
+
+# Enviroments
+.venv/
+
+#Media
+users/img/
+posts/pictures/
+media/
+static/img/
+static/icons
