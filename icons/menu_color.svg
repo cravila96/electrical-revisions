@@ -1,0 +1,4 @@
+<svg id="menu" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <path id="Trazado_1" data-name="Trazado 1" d="M0,0H30V30H0Z" fill="none"/>
+  <path id="Trazado_2" data-name="Trazado 2" d="M20.9,5.4l3.709,3.709L20.9,12.818,17.193,9.109,20.9,5.4m-10.039.629v5.243H5.621V6.028h5.242M23.969,19.136v5.243H18.727V19.136h5.242m-13.106,0v5.243H5.621V19.136h5.242M20.9,1.69,13.484,9.1,20.9,16.514,28.32,9.1,20.9,1.69ZM13.484,3.407H3V13.893H13.484ZM26.59,16.514H16.106V27H26.59Zm-13.106,0H3V27H13.484Z" transform="translate(0)" fill="#fd4b7f"/>
+</svg>

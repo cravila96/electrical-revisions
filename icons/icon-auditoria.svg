@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_11" data-name="Rectángulo 11" width="38" height="38" transform="translate(-218 866.764)" fill="#ff4880"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_1" data-name="Enmascarar grupo 1" transform="translate(218 -866.764)" clip-path="url(#clip-path)">
+    <g id="check" transform="translate(-216.69 866.764)">
+      <g id="Grupo_10" data-name="Grupo 10" transform="translate(0 0)">
+        <rect id="Rectángulo_12" data-name="Rectángulo 12" width="35.379" height="38" fill="none"/>
+      </g>
+      <g id="Grupo_12" data-name="Grupo 12" transform="translate(5.404 7.781)">
+        <g id="Grupo_11" data-name="Grupo 11">
+          <path id="Trazado_6" data-name="Trazado 6" d="M38.364,20.4H17.074A1.836,1.836,0,0,0,15.3,22.283V41.112A1.836,1.836,0,0,0,17.074,43h21.29a1.836,1.836,0,0,0,1.774-1.883V22.283A1.836,1.836,0,0,0,38.364,20.4Zm0,20.712H17.074V22.283h21.29Z" transform="translate(-15.3 -20.4)" fill="#31bec7" fill-rule="evenodd"/>
+          <rect id="Rectángulo_13" data-name="Rectángulo 13" width="7.097" height="1.883" transform="translate(3.548 5.649)" fill="#31bec7"/>
+          <rect id="Rectángulo_14" data-name="Rectángulo 14" width="7.097" height="1.883" transform="translate(3.548 10.356)" fill="#31bec7"/>
+          <rect id="Rectángulo_15" data-name="Rectángulo 15" width="7.097" height="1.883" transform="translate(3.548 15.064)" fill="#31bec7"/>
+          <path id="Trazado_7" data-name="Trazado 7" d="M56.358,48.639l5.021-5.329-1.242-1.337-3.779,3.992-1.242-1.318-1.26,1.318Z" transform="translate(-40.443 -34.008)" fill="#31bec7" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

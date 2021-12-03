@@ -1,0 +1,4 @@
+<svg id="dashboard" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <rect id="Rectángulo_16" data-name="Rectángulo 16" width="28" height="28" fill="none"/>
+  <path id="Trazado_10" data-name="Trazado 10" d="M22.556,3H5.444A2.452,2.452,0,0,0,3,5.444V22.556A2.452,2.452,0,0,0,5.444,25H22.556A2.452,2.452,0,0,0,25,22.556V5.444A2.452,2.452,0,0,0,22.556,3ZM5.444,22.556V5.444h7.333V22.556Zm17.111,0H15.222V14h7.333Zm0-11H15.222V5.444h7.333Z" fill="#31bec7"/>
+</svg>

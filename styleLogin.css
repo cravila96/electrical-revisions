@@ -15,6 +15,15 @@ html{
   font-family: 'Open Sans', sans-serif;
 }
 
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 160px;
+}
+.logo{
+  margin-top: 32px;
+}
 
 .login-form{
   position: relative;
@@ -23,19 +32,10 @@ html{
   align-items:center ;
   width: 100%;
   min-width: 320px;
-  height: 400px;
+  height: 220px;
   text-align: center;
 }
 
-.login-form input  {
-  display: flex;
-  /* justify-content: start; */
-  margin-bottom: 25px;
-  box-sizing: content-box;
-  width: 220px;
-  border-bottom: #707070 solid 1px;
-  margin-top: 20px;
-}
 .user, .pass {
   border: none;
   color: var(--gray1);
@@ -55,4 +55,11 @@ html{
 .entrada{
   display: flex;
   align-items: center;
+  display: flex;
+  /* justify-content: start; */
+  margin-bottom: 25px;
+  box-sizing: content-box;
+  width: 220px;
+  border-bottom: #707070 solid 1px;
+  margin-top: 20px;
 }
